@@ -1,0 +1,18 @@
+DRC Rules Export File for PCB: C:\Users\Dan\Documents\GitHub\hardware\Morpheus_bottom\Morpheus_bottom.PcbDoc
+RuleKind=Clearance|RuleName=Board clearance|Scope=Board|Minimum=10.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=2.76
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=5.91
+RuleKind=Width|RuleName=TP|Scope=Board|Minimum=5.91
+RuleKind=Width|RuleName=LED|Scope=Board|Minimum=5.91
+RuleKind=Width|RuleName=Power width|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=5.91
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=ShortCircuit|RuleName=Schematic Short-Circuit Constraint|Scope=Board|Allowed=1
+RuleKind=ShortCircuit|RuleName=Schematic Short-Circuit Constraint_1|Scope=Board|Allowed=1
+RuleKind=ShortCircuit|RuleName=Schematic Short-Circuit Constraint_2|Scope=Board|Allowed=1
+RuleKind=ShortCircuit|RuleName=Schematic Short-Circuit Constraint_3|Scope=Board|Allowed=1
+RuleKind=ShortCircuit|RuleName=Schematic Short-Circuit Constraint_4|Scope=Board|Allowed=1
+RuleKind=ShortCircuit|RuleName=Schematic Short-Circuit Constraint_5|Scope=Board|Allowed=1
+RuleKind=ShortCircuit|RuleName=Schematic Short-Circuit Constraint_6|Scope=Board|Allowed=1
+RuleKind=ShortCircuit|RuleName=Schematic Short-Circuit Constraint_7|Scope=Board|Allowed=1
+RuleKind=Clearance|RuleName=Hole clearance|Scope=Board|Minimum=11.81

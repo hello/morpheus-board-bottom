@@ -1,0 +1,21 @@
+Field=Comment~String~Comment~148|Field=Description~String~Description~293|Field=Designator~String~Designator~314|Field=Footprint~String~Footprint~119|Field=LibRef~String~LibRef~151|Field=Quantity~Integer~Quantity~67|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~Morpheus_bottom.PrjPcb|ReportField=ProjectFullPath~C:\Users\Dan\Documents\GitHub\hardware\Morpheus_bottom\Morpheus_bottom.PrjPcb|ReportField=Title~Bill of Materials For PCB Document [Morpheus_bottom.PcbDoc]|ReportField=TotalQuantity~50|ReportField=ReportTime~1:32:56 PM|ReportField=ReportDate~5/12/2014|ReportField=ReportDateTime~5/12/2014 1:32:56 PM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=DataSourceFileName~Morpheus_bottom.PcbDoc|ReportField=DataSourceFullPath~C:\Users\Dan\Documents\GitHub\hardware\Morpheus_bottom\Morpheus_bottom.PcbDoc
+0.1u|Chip capacitor|C1, C2, C8|CAP0805|C_0.1u_10_50_X7R_0805|3
+220u|Chip capacitor|C3|Tant_EIA_3528|C_220u_20_10_3528_Tant|1
+10u|Chip capacitor|C4, C9|CAP0805|C_10u_10_10_X5R_0805|2
+4.7u|Chip capacitor|C5, C6, C7|CAP0805|C_4.7u_10_10_X5R_0805|3
+742792641|Ferrite bead, 300 ohm impedance|FB1|res0603|FB_300_2_0.15_0603|1
+Hole|general purpose hole|H1, H2, H3, H4|HOLE_ROUND_1.7mm|Hole|4
+2.2u|SMD power inductor, 2.2uH|L1, L2|VLS201612Ex-xxxx|L_2.2u_20_?_0.195_1.05_1.05|2
+51281-011|Molex 26-pin 0.5mm pitch connector|P1|51281-011|51281-011|1
+MHDR1X3|Header, 3-Pin|P2, P3, P4, P5, P6|MHDR1X3|MHDR1X3|5
+Header 2|Header, 2-Pin|P7|HDR1X2|Header 2|1
+FCI_USB_micro_B_10103592|board-cut USB connector|P9|FCI_10103592-0001LF|FCI_USB_micro_B_10103592|1
+100k|Chip Resistor|R1, R2, R3, R4, R5|RES0805|R_100k_5_0.125_0805|5
+TestPoint_hook_black|Generic Test Point|TP1, TP2, TP3, TP4, TP5, TP6, TP10, TP11, TP12, TP13, TP14, TP15|HOLE_ROUND_1.6mm|TestPoint_hook_black|12
+TestPoint_turret_0.093|Generic Test Point|TP7, TP8, TP9|HOLE_ROUND_2.4mm|TestPoint_turret_0.093|3
+INMP441|Omnidirectional digital microphone with I2S interface|U1|INMP441|INMP441|1
+INMP421|Omnidirectional digital microphone with PDM interface|U2|INMP421_broken|INMP421|1
+LM3370SD-4221|TI PMIC with fixed 3.3 and 1.8 outputs|U3|wson-16|LM3370SD-4221|1
+HTU21D|Meas-spec T/H sensor|U5|HTU2xx|HTU21D|1
+824011|ESD protection IC for 2 I/O channels and VDD|U6|SOT-23-5|Wuerth-824011|1
+744232090|Common mode line filter|U7|Wuert-744232090|Wuerth-744232090|1

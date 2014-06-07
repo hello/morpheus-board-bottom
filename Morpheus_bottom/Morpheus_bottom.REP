@@ -1,0 +1,22 @@
+*************************************************************
+FileName = Morpheus_bottom.GBR
+AutoAperture = True
+*************************************************************
+Generating : Drill Drawing
+      File : Morpheus_bottom.GD1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+*************************************************************
+
