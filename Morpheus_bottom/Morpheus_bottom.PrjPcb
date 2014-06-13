@@ -100,38 +100,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document5]
-DocumentPath=..\Components\Hello.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document6]
-DocumentPath=..\Components\Hello.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document7]
 DocumentPath=Morpheus_bottom.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -147,23 +115,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document8]
-DocumentPath=..\..\..\..\..\Public\Documents\Altium\AD14\Library\Miscellaneous Connectors.IntLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document9]
+[Document6]
 DocumentPath=Morpheus_bottom.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -179,204 +131,40 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
+[Document7]
+DocumentPath=..\..\hello-hardware-components\Components\Hello.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+
+[Document8]
+DocumentPath=..\..\hello-hardware-components\Components\Hello.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+
 [GeneratedDocument1]
-DocumentPath=Project Outputs for Morpheus_bottom\odb\steps\pcb\layers\comp_+_bot\components
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for Morpheus_bottom\odb\steps\pcb\layers\comp_+_top\components
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for Morpheus_bottom\odb\steps\pcb\eda\data
-DItemRevisionGUID=
-
-[GeneratedDocument4]
 DocumentPath=Project Outputs for Morpheus_bottom\Design Rule Check - Morpheus_bottom.html
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for Morpheus_bottom\odb\steps\pcb\layers\bottom\features
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for Morpheus_bottom\odb\steps\pcb\layers\bottomoverlay\features
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for Morpheus_bottom\odb\steps\pcb\layers\bottompaste\features
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for Morpheus_bottom\odb\steps\pcb\layers\bottomsolder\features
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for Morpheus_bottom\odb\steps\pcb\layers\comp_+_bot\features
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for Morpheus_bottom\odb\steps\pcb\layers\comp_+_top\features
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for Morpheus_bottom\odb\steps\pcb\layers\drill\features
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for Morpheus_bottom\odb\steps\pcb\layers\mid1\features
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for Morpheus_bottom\odb\steps\pcb\layers\mid2\features
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for Morpheus_bottom\odb\steps\pcb\layers\mid3\features
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Project Outputs for Morpheus_bottom\odb\steps\pcb\layers\mid4\features
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Project Outputs for Morpheus_bottom\odb\steps\pcb\layers\rout\features
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=Project Outputs for Morpheus_bottom\odb\steps\pcb\layers\top\features
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=Project Outputs for Morpheus_bottom\odb\steps\pcb\layers\topoverlay\features
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=Project Outputs for Morpheus_bottom\odb\steps\pcb\layers\toppaste\features
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=Project Outputs for Morpheus_bottom\odb\steps\pcb\layers\topsolder\features
-DItemRevisionGUID=
-
-[GeneratedDocument21]
-DocumentPath=Project Outputs for Morpheus_bottom\odb\matrix\matrix
-DItemRevisionGUID=
-
-[GeneratedDocument22]
-DocumentPath=Project Outputs for Morpheus_bottom\Morpheus_bottom-RoundHoles.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument23]
-DocumentPath=Project Outputs for Morpheus_bottom\Morpheus_bottom-SlotHoles.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument24]
-DocumentPath=Project Outputs for Morpheus_bottom\Morpheus_bottom.BOM
-DItemRevisionGUID=
-
-[GeneratedDocument25]
-DocumentPath=Project Outputs for Morpheus_bottom\Morpheus_bottom.CSV
-DItemRevisionGUID=
-
-[GeneratedDocument26]
-DocumentPath=Project Outputs for Morpheus_bottom\Morpheus_bottom.DRL
-DItemRevisionGUID=
-
-[GeneratedDocument27]
-DocumentPath=Project Outputs for Morpheus_bottom\Morpheus_bottom.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument28]
-DocumentPath=Project Outputs for Morpheus_bottom\Morpheus_bottom.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument29]
-DocumentPath=Project Outputs for Morpheus_bottom\Morpheus_bottom.G1
-DItemRevisionGUID=
-
-[GeneratedDocument30]
-DocumentPath=Project Outputs for Morpheus_bottom\Morpheus_bottom.G2
-DItemRevisionGUID=
-
-[GeneratedDocument31]
-DocumentPath=Project Outputs for Morpheus_bottom\Morpheus_bottom.G3
-DItemRevisionGUID=
-
-[GeneratedDocument32]
-DocumentPath=Project Outputs for Morpheus_bottom\Morpheus_bottom.G4
-DItemRevisionGUID=
-
-[GeneratedDocument33]
-DocumentPath=Project Outputs for Morpheus_bottom\Morpheus_bottom.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument34]
-DocumentPath=Project Outputs for Morpheus_bottom\Morpheus_bottom.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument35]
-DocumentPath=Project Outputs for Morpheus_bottom\Morpheus_bottom.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument36]
-DocumentPath=Project Outputs for Morpheus_bottom\Morpheus_bottom.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument37]
-DocumentPath=Project Outputs for Morpheus_bottom\Morpheus_bottom.GD1
-DItemRevisionGUID=
-
-[GeneratedDocument38]
-DocumentPath=Project Outputs for Morpheus_bottom\Morpheus_bottom.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument39]
-DocumentPath=Project Outputs for Morpheus_bottom\Morpheus_bottom.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument40]
-DocumentPath=Project Outputs for Morpheus_bottom\Morpheus_bottom.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument41]
-DocumentPath=Project Outputs for Morpheus_bottom\Morpheus_bottom.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument42]
-DocumentPath=Project Outputs for Morpheus_bottom\Morpheus_bottom.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument43]
-DocumentPath=Project Outputs for Morpheus_bottom\Morpheus_bottom.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument44]
-DocumentPath=Project Outputs for Morpheus_bottom\Morpheus_bottom.REP
-DItemRevisionGUID=
-
-[GeneratedDocument45]
-DocumentPath=Project Outputs for Morpheus_bottom\odb\steps\pcb\netlists\cadnet\netlist
-DItemRevisionGUID=
-
-[GeneratedDocument46]
-DocumentPath=Project Outputs for Morpheus_bottom\Pick Place for Morpheus_bottom.txt
-DItemRevisionGUID=
-
-[GeneratedDocument47]
-DocumentPath=Project Outputs for Morpheus_bottom\odb\steps\pcb\profile
-DItemRevisionGUID=
-
-[GeneratedDocument48]
-DocumentPath=Project Outputs for Morpheus_bottom\odb\steps\pcb\stephdr
-DItemRevisionGUID=
-
-[GeneratedDocument49]
-DocumentPath=Project Outputs for Morpheus_bottom\odb\steps\pcb\layers\drill\tools
-DItemRevisionGUID=
-
-[GeneratedDocument50]
-DocumentPath=Project Outputs for Morpheus_bottom\odb\steps\pcb\layers\rout\tools
 DItemRevisionGUID=
 
 [Configuration1]
