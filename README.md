@@ -1,5 +1,5 @@
 Hello Morpheus Bottom board Repository
-===
+ 
 905-00005-B
 Bottom board -
 Why changed- in order to fix problems we found during initial production, minor board changes are being made to give additional clearance around the screw holes to ensure we don't have mechanical conflicts or shorts with the screw bosses. This includes making minor changes to component placement for a very small number of devices. ...
@@ -11,3 +11,6 @@ What changed-
 5. Created a flex connector P3 footprint.
 6. Slight move TP1.8v to the right to avoid H4 clearance around the screw.
 7. Rout the gnd via of U3 by ground layer trace.
+ 
+
+ 
